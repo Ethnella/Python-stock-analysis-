@@ -1,2 +1,4 @@
 # Python-stock-analysis-
-Google stock 
+Google stock analysis 
+Netflix stock analysis 
+Using Pandas, Numpy, and Matplotlib
